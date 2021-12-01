@@ -1,0 +1,7 @@
+{
+    "AwsSettings": {
+        "AccessKeyId": "AccessKeyId",
+        "SecretAccessKey": "SecretAccessKey",
+        "Region": "Region"
+    }
+}
